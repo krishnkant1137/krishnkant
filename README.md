@@ -1,3 +1,8 @@
 # krishnkant
 this is my first repository 
-what up
+
+# Teacher
+shradha ma'am
+
+# Student
+Krishnkant
